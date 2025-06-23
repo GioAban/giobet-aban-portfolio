@@ -28,7 +28,7 @@ const Projects = () => {
 			description:
 				"A web-based product ordering and management system with integrated online payment, enabling customers to browse items, place orders, and pay securely through the website.",
 			tech: ["Html", "Css", "Ajax", "Codeigniter", "MySQL"],
-			github: "https://github.com/GioAban/EcommerceSystem"
+			github: "https://github.com/GioAban/Capstone-Ecommerce"
 		},
 	];
 
