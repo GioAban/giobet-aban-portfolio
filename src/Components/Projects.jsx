@@ -12,7 +12,7 @@ const Projects = () => {
 			description:
 				"Tourism Management Information System is a Web and Mobile platform for tourism management, featuring information dissemination, report generation, and an AI assistant for tourist support.",
 			tech: ["Html", "Css", "Bootstrap", "PHP", "Java", "MySQL"],
-			github: "https://github.com/GioAban/PangTourista"
+			github: "https://github.com/GioAban/pangtourista-website"
 		},
 		{
 			image: InternshipDashboard,
