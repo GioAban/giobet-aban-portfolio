@@ -1,6 +1,6 @@
 {
   "name": "react-study",
-  "homepage": "http://GioAban.github.io/giobet-aban-webiste",
+  "homepage": "http://GioAban.github.io/giobet-aban-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -9,8 +9,8 @@
     "build": "vite build",
     "lint": "eslint .",
     "preview": "vite preview",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d dist"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
@@ -22,7 +22,6 @@
     "react-bootstrap": "^2.10.10",
     "react-dom": "^19.1.0",
     "react-icons": "^5.5.0",
-    "react-router-dom": "^7.6.2",
     "react-scripts": "^5.0.1"
   },
   "devDependencies": {

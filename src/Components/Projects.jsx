@@ -1,5 +1,3 @@
-import React from "react";
-import { Link } from "react-router-dom";
 import PangTouristaDashboard from "../assets/images/projects/pangtourista/pangtourista-dashboard.png";
 import InternshipDashboard from "../assets/images/projects/internship/internship-dashboard.png";
 import EcommerceDashboard from "../assets/images/projects/ecommerce/ecommerce-dashboard.png";
