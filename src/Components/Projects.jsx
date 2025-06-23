@@ -12,7 +12,7 @@ const Projects = () => {
 			description:
 				"Tourism Management Information System is a Web and Mobile platform for tourism management, featuring information dissemination, report generation, and an AI assistant for tourist support.",
 			tech: ["Html", "Css", "Bootstrap", "PHP", "Java", "MySQL"],
-			github: "https://github.com/GioAban/pangtourista-website"
+			github: "https://github.com/GioAban/pangtourista-website.git"
 		},
 		{
 			image: InternshipDashboard,
@@ -20,7 +20,7 @@ const Projects = () => {
 			description:
 				"A Web and Mobile-based Internship Management Information System designed to track OJT progress, manage student files, generate reports, and facilitate attendance through QR code scanning.",
 			tech: ["Html", "Css", "Ajax", "Bootstrap", "Laravel", "MySQL"],
-			github: "https://github.com/GioAban/Trackticum"
+			github: "https://github.com/GioAban/Trackticum.git"
 		},
 		{
 			image: EcommerceDashboard,
@@ -28,7 +28,7 @@ const Projects = () => {
 			description:
 				"A web-based product ordering and management system with integrated online payment, enabling customers to browse items, place orders, and pay securely through the website.",
 			tech: ["Html", "Css", "Ajax", "Codeigniter", "MySQL"],
-			github: "https://github.com/GioAban/Capstone-Ecommerce"
+			github: "https://github.com/GioAban/Capstone-Ecommerce.git"
 		},
 	];
 
