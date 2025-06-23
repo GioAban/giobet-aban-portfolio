@@ -1,0 +1,14 @@
+#footer {
+	text-align: center;
+	background-color: var(--primary);
+	h1 {
+		font-size: 48px;
+		margin-bottom: 10px;
+	}
+}
+#footer {
+	p {
+		padding: 24px;
+		color: #ffffff;
+	}
+}

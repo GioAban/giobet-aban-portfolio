@@ -1,0 +1,58 @@
+#navbar {
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	background-color: #000000;
+	color: #ffffff;
+	padding: 10px;
+	font-size: 18px;
+	h1 {
+		font-size: 48px;
+		margin-bottom: 10px;
+	}
+}
+.navbarItem {
+	list-style: none;
+	display: flex;
+	gap: 30px;
+	justify-content: center;
+	margin-top: 16px;
+}
+.navbarItem li {
+	list-style: none;
+	a {
+		color: #ffffff;
+	}
+}
+.navbarItem li a:hover {
+	color: var(--primary);
+}
+#ic-nav {
+	font-size: 32px;
+}
+#navbar-theme-btn {
+	display: flex;
+	justify-content: center;
+	margin-top: 16px;
+	transition: all 0.3s ease;
+}
+#faRegMoon,
+#imSun {
+	width: 24px;
+	height: auto;
+	transition: transform 0.3s ease, opacity 0.3s ease, color 0.3s ease;
+}
+#faRegMoon:hover,
+#imSun:hover {
+	transform: scale(1.2);
+	color: var(--primary);
+}
+.theme-icon {
+	opacity: 1;
+	transition: opacity 0.3s ease;
+}
+.theme-icon.hide {
+	opacity: 0;
+	position: absolute;
+}

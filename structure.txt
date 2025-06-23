@@ -1,0 +1,24 @@
+portfolio/
+├── public/
+│   └── assets/               → Images, icons, CV, etc.
+├── src/
+│   ├── components/           → Reusable UI parts (Navbar, Hero, etc.)
+│   │   ├── Navbar.jsx
+│   │   ├── Hero.jsx
+│   │   ├── About.jsx
+│   │   ├── Projects.jsx
+│   │   ├── Skills.jsx
+│   │   ├── Contact.jsx
+│   │   └── Footer.jsx
+│   ├── data/                 → Static content (project list, skills, etc.)
+│   │   ├── projects.js
+│   │   └── skills.js
+│   ├── styles/               → Global and component-level CSS (optional if Tailwind)
+│   │   └── global.css
+│   ├── App.jsx               → Main page composition
+│   ├── main.jsx              → Entry point
+│   └── theme/ (optional)     → Theme logic (dark/light toggle)
+│       └── ThemeContext.jsx
+├── index.html
+├── package.json
+└── vite.config.js            → If using Vite

@@ -1,0 +1,48 @@
+/* Contact Styles Start */
+#contact {
+	margin: 0px 80px 26px 80px;
+	color: var(--black);
+	.row {
+		text-align: center;
+	}
+	h1 {
+		font-size: 48px;
+		margin-bottom: 10px;
+	}
+}
+a {
+	text-decoration: none;
+	color: var(--black);
+	margin: 20px;
+}
+#contact-header {
+	text-align: center;
+	margin-bottom: 50px;
+	width: 100%;
+	padding: 0px 90px 0px 90px;
+}
+#contact-header col {
+	justify-content: center;
+	text-align: center;
+	display: inline;
+	display: block;
+}
+.contact .row {
+	background-color: var(--primary-opacity);
+	padding: 12px;
+	margin: 4px 4px 8px 4px;
+	border-radius: 6px;
+	display: flex;
+	gap: 30px;
+	justify-content: center;
+}
+.contact-icon {
+	width: auto;
+	height: 40px;
+}
+.title {
+	font-weight: bold;
+	font-size: 24px;
+}
+
+/* Contact Styles End */
